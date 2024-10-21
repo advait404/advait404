@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=advait404)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=advait404&title=-PullRequest,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)

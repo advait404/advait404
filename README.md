@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=advait404)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=advait404&title=-PullRequest,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)

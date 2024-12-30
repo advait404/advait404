@@ -9,13 +9,6 @@ I'm an aspiring DeepTech professional with 2+ years of experience in data scienc
 - <img src="https://github.com/user-attachments/assets/c4472712-9e8f-47d7-bf30-e0d900e199c6" width="16" height="16" style="vertical-align: middle;"> LinkedIn: [linkedin.com/in/advait-sinha](https://linkedin.com/in/advait-sinha)
 - <img src="https://github.com/user-attachments/assets/ebf8cd55-1617-4ace-8633-15e146923b9f" width="16" height="16" style="vertical-align: middle;"> GitHub: [linkedin.com/in/advait-sinha](https://linkedin.com/in/advait-sinha)
 
-## 🚀 Professional Highlights
-
-- Research Assistant focusing on Collaborative Problem Solving (CPS) platforms
-- Developed AI-enabled systems for automation in financial services
-- Worked on generative AI applications for enterprise cloud management
-- Implemented LLM solutions for various industries including insurance, logistics, and software
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -36,6 +29,16 @@ I'm an aspiring DeepTech professional with 2+ years of experience in data scienc
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+## 🚀 Professional Highlights
+
+🔬 **Research Assistant** at Asia Pacific University: Developed innovative CPS remote learning platform, optimizing engagement through advanced technological solutions
+
+💻 **Freelance Application Developer** at Finbuzz Financial Services: Created AI-powered systems automating employee data validation and training processes
+
+🤖 **Graduate Trainee - Data Analytics** at Minfy Technologies: Engineered generative AI applications across enterprise cloud, insurance, logistics, and software sectors
+
+<img src="https://github.com/user-attachments/assets/696d10a8-1972-4f67-ba01-9019076ee615" width="16" height="16" style="vertical-align: middle;"> **Big Data Analytics Intern** at Strateq Group: Supported cloud migration projects, focusing on legacy system upgrades and data analytics transformations
+
 ## 🎓 Academic Background
 
 - **PhD in Technology** (Ongoing)
@@ -43,12 +46,48 @@ I'm an aspiring DeepTech professional with 2+ years of experience in data scienc
 - **MSc in Data Science and Business Analytics** (2023-2024)
 - **BSc (Hons) in Computer Science (Data Analytics)** (2020-2023)
 
+<!-- ## 🏆 Certifications
+
+### AWS Certifications
+
+- Solutions Architect - Associate
+- Cloud Practitioner - Foundational
+
+### Google Certifications
+
+- Data Analytics Specialization
+- IT Support Specialization
+
+### IBM Certifications
+
+- Data Science Professional Certificate
+- Data Analyst Professional Certificate
+- Introduction to Data Science Specialization
+- Data Analysis and Visualization Foundations Specialization
+
+### Other Certifications
+
+- SAS-APU Joint Certificate in Computer Science and Data Analytics -->
+
 ## 🏆 Certifications
 
-- AWS Certified Solutions Architect - Associate
-- AWS Certified Cloud Practitioner
-- Google Data Analytics Specialization
-- IBM Data Science Professional Certificate
+### ☁️ Cloud & Infrastructure
+
+- **AWS**: Solutions Architect - Associate, Cloud Practitioner - Foundational
+
+### 📊 Data Science & Analytics
+
+- **Google**: Data Analytics Specialization
+- **SAS**: Joint Certificate in Computer Science and Data Analytics
+- **IBM**:
+  - Data Analyst Professional Certificate
+  - Introduction to Data Science Specialization
+  - Data Science Professional Certificate
+  - Data Analysis and Visualization Foundations Specialization
+
+### 🔧 IT & Support
+
+- **Google**: IT Support Specialization
 
 ## 📚 Notable Publications
 
@@ -84,11 +123,6 @@ I'm an aspiring DeepTech professional with 2+ years of experience in data scienc
         <img src="https://github-profile-trophy.vercel.app/?username=advait404&theme=radical" alt="advait404" />
     </a>
 </p>
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/advait-sinha)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/advait404)
 
 ---
 

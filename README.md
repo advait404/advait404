@@ -8,29 +8,34 @@ I'm an aspiring DeepTech professional with 2+ years of experience in data scienc
 - 📧 Email: advait.sinha@mailbox.org
 - <img src="https://github.com/user-attachments/assets/c4472712-9e8f-47d7-bf30-e0d900e199c6" width="16" height="16" style="vertical-align: middle;"> LinkedIn: [linkedin.com/in/advait-sinha](https://linkedin.com/in/advait-sinha)
 - <img src="https://github.com/user-attachments/assets/ebf8cd55-1617-4ace-8633-15e146923b9f" width="16" height="16" style="vertical-align: middle;"> GitHub: [github.com/advait404
-](https://github.com/advait404)
+  ](https://github.com/advait404)
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+<img src="https://icons.duckduckgo.com/ip3/python.org.ico" width="16" height="16" style="vertical-align: middle;"> Python
+<img src="https://icons.duckduckgo.com/ip3/www.r-project.org.ico" width="16" height="16" style="vertical-align: middle;"> R
+<img src="https://icons.duckduckgo.com/ip3/www.mysql.com.ico" width="16" height="16" style="vertical-align: middle;"> SQL
+<img src="https://icons.duckduckgo.com/ip3/www.sas.com.ico" width="16" height="16" style="vertical-align: middle;"> SAS
+<img src="https://icons.duckduckgo.com/ip3/www.java.com.ico" width="16" height="16" style="vertical-align: middle;"> Java
+<img src="https://icons.duckduckgo.com/ip3/isocpp.org.ico" width="16" height="16" style="vertical-align: middle;"> C++
+<img src="https://icons.duckduckgo.com/ip3/git-scm.com.ico" width="16" height="16" style="vertical-align: middle;"> Git
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://icons.duckduckgo.com/ip3/aws.amazon.com.ico" width="16" height="16" style="vertical-align: middle;"> AWS
+<img src="https://icons.duckduckgo.com/ip3/microsoft.com.ico" width="16" height="16" style="vertical-align: middle;"> Azure
+<img src="https://icons.duckduckgo.com/ip3/openai.com.ico" width="16" height="16" style="vertical-align: middle;"> OpenAI
+<img src="https://icons.duckduckgo.com/ip3/databricks.com.ico" width="16" height="16" style="vertical-align: middle;"> Databricks
 
-### Cloud & AI Platforms
+<img src="https://icons.duckduckgo.com/ip3/app.powerbi.com.ico" width="16" height="16" style="vertical-align: middle;"> PowerBI
+<img src="https://icons.duckduckgo.com/ip3/tableau.com.ico" width="16" height="16" style="vertical-align: middle;"> Tableau
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<img src="https://icons.duckduckgo.com/ip3/blog.scikit-learn.org.ico" width="16" height="16" style="vertical-align: middle;"> Scikit-Learn
+<img src="https://icons.duckduckgo.com/ip3/matplotlib.org.ico" width="16" height="16" style="vertical-align: middle;"> Matplotlib
+<img src="https://icons.duckduckgo.com/ip3/seaborn.pydata.org.ico" width="16" height="16" style="vertical-align: middle;"> Seaborn
 
-### AI/ML Frameworks
+<img src="https://icons.duckduckgo.com/ip3/www.sas.com.ico" width="16" height="16" style="vertical-align: middle;"> SAS Enterprise Miner
+<img src="https://icons.duckduckgo.com/ip3/office.com.ico" width="16" height="16" style="vertical-align: middle;"> Microsoft Office
 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-## 🚀 Professional Highlights
+## 💼 Professional Highlights
 
 🔬 **Research Assistant** at Asia Pacific University: Developed innovative CPS remote learning platform, optimizing engagement through advanced technological solutions
 
@@ -72,23 +77,14 @@ I'm an aspiring DeepTech professional with 2+ years of experience in data scienc
 
 ## 🏆 Certifications
 
-### ☁️ Cloud & Infrastructure
-
 - **AWS**: Solutions Architect - Associate, Cloud Practitioner - Foundational
-
-### 📊 Data Science & Analytics
-
-- **Google**: Data Analytics Specialization
-- **SAS**: Joint Certificate in Computer Science and Data Analytics
+- **Google**: Data Analytics Specialization, IT Support Specialization
+- **SAS-APU**: Joint Certificate in Computer Science and Data Analytics
 - **IBM**:
   - Data Analyst Professional Certificate
   - Introduction to Data Science Specialization
   - Data Science Professional Certificate
   - Data Analysis and Visualization Foundations Specialization
-
-### 🔧 IT & Support
-
-- **Google**: IT Support Specialization
 
 ## 📊 GitHub Stats
 

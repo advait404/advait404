@@ -1,16 +1,95 @@
-<h1 align="center">Hi 👋, I'm Advait Sinha</h1>
-<h3 align="center">A Research Assistant (Data Science/AI) and PhD Student</h3>
+# Advait Sinha - DeepTech Professional & AI Researcher
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=advait404&label=Profile%20views&color=0e75b6&style=flat" alt="advait404" /> </p>
+## 👋 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=advait404" alt="advait404" /></a> </p>
+I'm an aspiring DeepTech professional with 2+ years of experience in data science, analytics, and generative AI. Passionate about developing innovative solutions leveraging cloud technologies, machine learning, and large language models.
 
-- 📫 How to reach me: advait.sinha@mailbox.org
-- <img src="https://github.com/user-attachments/assets/c4472712-9e8f-47d7-bf30-e0d900e199c6" width="16" height="16" style="vertical-align: middle;"> Connect with me: https://www.linkedin.com/in/advait-sinha
+- 🌍 Location: Kuala Lumpur, Malaysia
+- 📧 Email: advait.sinha@mailbox.org
+- <img src="https://github.com/user-attachments/assets/c4472712-9e8f-47d7-bf30-e0d900e199c6" width="16" height="16" style="vertical-align: middle;"> LinkedIn: [linkedin.com/in/advait-sinha](https://linkedin.com/in/advait-sinha)
+- <img src="https://github.com/user-attachments/assets/ebf8cd55-1617-4ace-8633-15e146923b9f" width="16" height="16" style="vertical-align: middle;"> GitHub: [linkedin.com/in/advait-sinha](https://linkedin.com/in/advait-sinha)
 
-![image](https://github.com/user-attachments/assets/a21b14f2-363e-4217-a84a-c978010472ae)
+## 🚀 Professional Highlights
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+- Research Assistant focusing on Collaborative Problem Solving (CPS) platforms
+- Developed AI-enabled systems for automation in financial services
+- Worked on generative AI applications for enterprise cloud management
+- Implemented LLM solutions for various industries including insurance, logistics, and software
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advait404&show_icons=true&locale=en&layout=compact" alt="advait404" /></p>
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Cloud & AI Platforms
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### AI/ML Frameworks
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+## 🎓 Academic Background
+
+- **PhD in Technology** (Ongoing)
+  - Research: Explainable Generative AI (GenXAI) Frameworks
+- **MSc in Data Science and Business Analytics** (2023-2024)
+- **BSc (Hons) in Computer Science (Data Analytics)** (2020-2023)
+
+## 🏆 Certifications
+
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Cloud Practitioner
+- Google Data Analytics Specialization
+- IBM Data Science Professional Certificate
+
+## 📚 Notable Publications
+
+1. **Multi-Purpose Generative-AI Engine with Universal Integration**
+
+   - Versatile GenAI engine for cross-domain integration
+   - Focuses on performance, accuracy, and ease of integration
+
+2. **Movie Recommendation System using CNN and BERT**
+
+   - Developed using EfficientNet CNN and DistilRoBERTa
+   - Hosted on AWS
+
+3. **Leveraging Cloud Computing for AI and Machine Learning**
+   - Explored synergies between cloud computing and AI/ML
+   - Addressed challenges in cloud-based AI solutions
+
+## 🌐 Languages
+
+- English (Fluent)
+- Hindi (Native)
+
+## 📊 GitHub Stats
+
+<!-- ![Advait's GitHub Stats](https://github-readme-stats.vercel.app/api?username=advait404&show_icons=true&theme=radical) -->
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=advait404&show_icons=true&locale=en&layout=compact&theme=radical" alt="advait404" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=advait404&theme=radical" alt="advait404" />
+    </a>
+</p>
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/advait-sinha)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/advait404)
+
+---
+
+_Innovating at the intersection of AI, Cloud, and Data Science_ 🚀

@@ -7,7 +7,8 @@ I'm an aspiring DeepTech professional with 2+ years of experience in data scienc
 - 🌍 Location: Kuala Lumpur, Malaysia
 - 📧 Email: advait.sinha@mailbox.org
 - <img src="https://github.com/user-attachments/assets/c4472712-9e8f-47d7-bf30-e0d900e199c6" width="16" height="16" style="vertical-align: middle;"> LinkedIn: [linkedin.com/in/advait-sinha](https://linkedin.com/in/advait-sinha)
-- <img src="https://github.com/user-attachments/assets/ebf8cd55-1617-4ace-8633-15e146923b9f" width="16" height="16" style="vertical-align: middle;"> GitHub: [linkedin.com/in/advait-sinha](https://linkedin.com/in/advait-sinha)
+- <img src="https://github.com/user-attachments/assets/ebf8cd55-1617-4ace-8633-15e146923b9f" width="16" height="16" style="vertical-align: middle;"> GitHub: [github.com/advait404
+](https://github.com/advait404)
 
 ## 🛠️ Technical Skills
 

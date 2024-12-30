@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=advait404" alt="advait404" /></a> </p>
 
-- 📫 How to reach me **advait.sinha@mailbox.org**
+- 📫 How to reach me: **advait.sinha@mailbox.org**
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/advait-sinha" height="30" width="40" /> Connect with me: https://linkedin.com/in/https://www.linkedin.com/in/advait-sinha
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

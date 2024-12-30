@@ -89,27 +89,6 @@ I'm an aspiring DeepTech professional with 2+ years of experience in data scienc
 
 - **Google**: IT Support Specialization
 
-## 📚 Notable Publications
-
-1. **Multi-Purpose Generative-AI Engine with Universal Integration**
-
-   - Versatile GenAI engine for cross-domain integration
-   - Focuses on performance, accuracy, and ease of integration
-
-2. **Movie Recommendation System using CNN and BERT**
-
-   - Developed using EfficientNet CNN and DistilRoBERTa
-   - Hosted on AWS
-
-3. **Leveraging Cloud Computing for AI and Machine Learning**
-   - Explored synergies between cloud computing and AI/ML
-   - Addressed challenges in cloud-based AI solutions
-
-## 🌐 Languages
-
-- English (Fluent)
-- Hindi (Native)
-
 ## 📊 GitHub Stats
 
 <!-- ![Advait's GitHub Stats](https://github-readme-stats.vercel.app/api?username=advait404&show_icons=true&theme=radical) -->
